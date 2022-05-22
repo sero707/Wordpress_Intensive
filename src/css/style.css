@@ -13,11 +13,11 @@
     width: 1140px;
     margin: 0 auto;
 }
-.content .logo .logo_img{
+.section_1 .content .logo .logo_img{
     display: block;
     margin: 0 auto;
 }
-.content .logo .logo_text{
+.section_1 .content .logo .logo_text{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -26,4 +26,34 @@
     text-transform: uppercase;
     color: #FFFFFF;
     margin-top: 9.5px;
+}
+.section_1 .content .main_text_h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F9BF3B;
+    margin-top: 53px;
+}
+.section_1 .content .section_1_h2_text_1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 80px;
+    margin-top: 20.5px;
+}
+.section_1 .content .section_1_h2_text_2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #F9BF3B;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 41px;
+    margin-top: 20.5px;
 }
