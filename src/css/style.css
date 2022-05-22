@@ -5,7 +5,7 @@
 }
 
 .section_1{
-    background: url(/src/img/main_bg_1_container.jpg) center center/cover no-repeat ;
+    background: url(../img/main_bg_1_container.jpg) center center/cover no-repeat ;
     height: 800px;
     padding: 38px 0 61px 0;
 }
