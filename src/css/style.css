@@ -102,3 +102,37 @@
     margin: 0 auto;
     margin-top: 5px;
 }
+
+
+.section_2{
+    background: #EFEFEF center center/cover no-repeat ;
+    height: 610px;
+    padding: 88px 0 0 0;
+}
+
+.section_2 .content .h2_second_section{
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.section_2 .content .break{
+    width: 220px;
+    height: 7px;
+    background: #F9BF3B;
+    margin: 0 auto;
+    margin-top: 18px;
+}
+.section_2 .content .h3_second_section{
+    text-align: center;
+    color: #4A4A4A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    margin-top: 18px;
+}
+
