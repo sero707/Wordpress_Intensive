@@ -158,3 +158,22 @@
 .section_2 .content .flex_wrapper .flex_section .flex_img{
     width: 100%;
 }
+.section_3{
+    min-height: 550px;
+    padding: 108px 0 74px 0;
+}
+.section_3 .content .section_3_text{
+    width: 750px;
+    
+}
+.section_3 .content .section_3_text h2{
+    align-items: center;
+    text-transform: uppercase;
+    color: #299CBD;
+    font-size: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+.section_3 .content{
+    display: flex;
+}
