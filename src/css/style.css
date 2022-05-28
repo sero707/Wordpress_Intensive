@@ -106,7 +106,7 @@
 
 .section_2{
     background: #EFEFEF center center/cover no-repeat ;
-    height: 610px;
+    min-height: 610px;
     padding: 88px 0 0 0;
 }
 
