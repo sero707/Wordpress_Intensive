@@ -203,6 +203,33 @@ padding: 68px 0 68.5px 0;
 .section_4 .content .h2_second_section{
     color: #EFEFEF;
 }
-/* .section_4 .content .flex_wrapper{
+.section_4 .content .flex_wrapper{
     margin-top: 39px;
-} */
+    flex-wrap: nowrap;
+}
+.section_4 .content .flex_wrapper .flex_section{
+    width: 234px;
+    text-align: center;
+}
+.section_4 .content .flex_wrapper .flex_section .section_circle{
+    width: 115px;
+    height: 115px;
+    background: #B4E2FF;
+    border-radius: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.section_4 .content .flex_wrapper .flex_section .flex_text{
+    margin-top: 24.5px;
+    color: #EFEFEF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+
+
