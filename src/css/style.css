@@ -229,6 +229,96 @@ padding: 68px 0 68.5px 0;
     font-size: 17px;
     line-height: 20px;
 }
-
-
-
+.section_5{
+    min-height: 631px;
+    padding: 85px 0 88px 0;
+    background: #EFEFEF center center/cover no-repeat;
+}
+.section_5 .content .img_present{
+    width: 154px;
+    height: 174px;
+    margin: 0 auto;
+}
+.section_5 .content .img_present img{
+    width: 100%;
+}
+.section_5 .content .present_text{
+    margin-top: 45px;
+    text-align: center;
+    color: #252525;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 43px;          
+    width: 1140px;
+}
+.section_5 .content .button_main{
+    margin-top: 51px;
+}
+.section_6{
+    min-height: 512px;
+    padding: 89px 0 52.5px 0;
+}
+.section_6 .content .sect_6_img{
+    width: 342px;
+    height: 201px;
+    margin: 0 auto;
+}
+.section_6 .content .sect_6_img img{
+    width: 100%;
+}
+.section_6 .content h3{
+    text-align: center;
+    margin-top: 36px;
+    text-transform: uppercase;
+    color: #252525;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.section_6 .content h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #299CBD;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    margin-top: 30px;
+}
+.section_6 .content .sect_6_text{
+    text-align: center;
+    margin-top: 24.5px;
+    text-align: center;
+    color: #4A4A4A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+}
+footer{
+    background: #1A1A1A center center/cover no-repeat;
+    min-height: 169px;
+    padding: 69px 0 69px 0;
+}
+footer .footer_text{
+    width: 407px;
+    margin: 0 auto;
+    text-align: center;
+    color: #888888;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+}
+footer .footer_text a{
+    border-bottom: 1px solid currentColor;
+    color: #888888;
+    text-decoration: none;
+}
+footer .footer_text a:hover{
+    color: #FFFFFF;
+}
