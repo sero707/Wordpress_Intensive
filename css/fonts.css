@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Roboto';
-    src: url('../fonts/RobotoCondensed-Light.eot');
-    src: url('../fonts/RobotoCondensed-Light.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/RobotoCondensed-Light.woff') format('woff'),
-    url('../fonts/RobotoCondensed-Light.ttf') format('truetype');
-    font-weight: 350;
+    src: url('../fonts/RobotoCondensed-Regular.eot');
+    src: url('../fonts/RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/RobotoCondensed-Regular.woff') format('woff'),
+    url('../fonts/RobotoCondensed-Regular.ttf') format('truetype');
+    font-weight: 450;
     font-style: normal;
     }
 
