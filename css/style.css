@@ -4,6 +4,9 @@
     padding: 0;
 }
 
+html{
+    font-family: 'Roboto', sans-serif;
+}
 .section_1{
     background: url(../img/main_bg_1_container.jpg) center center/cover no-repeat ;
     min-height: 800px;
@@ -19,8 +22,6 @@
     margin: 0 auto;
 }
 .section_1 .content .logo .logo_text{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 15px;
     text-align: center;
@@ -29,8 +30,6 @@
     margin-top: 9.5px;
 }
 .section_1 .content .main_text_h1{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 41px;
     text-align: center;
@@ -42,8 +41,6 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 80px;
     margin-top: 12.5px;
@@ -52,8 +49,6 @@
     text-align: center;
     text-transform: uppercase;
     color: #F9BF3B;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 41px;
     margin-top: 12.5px;
@@ -61,8 +56,6 @@
 .section_1 .content .main_descritpion{
     text-align: center;
     color: #FFFFFF;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 300;
     font-size: 21px;
     line-height: 28px;
@@ -87,11 +80,11 @@
     text-transform: uppercase;
     color: #FFFFFF;
     text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+    font-weight: 350;
 }
 .section_1 .content .moree .moree_text{
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.4);
-    font-family: 'Roboto';
     font-weight: 100;
     font-size: 15px;
     text-align: center;
