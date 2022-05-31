@@ -44,6 +44,27 @@ html{
     font-weight: 900;
     font-size: 80px;
     margin-top: 12.5px;
+    position: relative;
+}
+.section_1 .content .section_1_h2_text_1::before{
+    content: '';
+    width: 292px;
+    height: 2px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 40px;
+    left: -10px;
+}
+.section_1 .content .section_1_h2_text_1::after{
+    content: '';
+    width: 292px;
+    height: 2px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 40px;
+    left: 840px;
 }
 .section_1 .content .section_1_h2_text_2{
     text-align: center;
