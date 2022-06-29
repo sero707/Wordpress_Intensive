@@ -8,7 +8,7 @@ html{
     font-family: 'Roboto', sans-serif;
 }
 .section_1{
-    background: url(../img/main_bg_1_container.jpg) center center/cover no-repeat ;
+    background: url(../img/main_bg_1_container.jpg) center center/cover no-repeat;
     min-height: 800px;
     padding: 38px 0 61px 0;
 }
